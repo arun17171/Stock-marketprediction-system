@@ -1,24 +1,24 @@
 Hp@DESKTOP-02IFNOO MINGW64 ~/OneDrive/Desktop/repo (master)
 $ git config user.name
-bettu
+Arun
 
 Hp@DESKTOP-02IFNOO MINGW64 ~/OneDrive/Desktop/repo (master)
 $ git config user.email
-bettumk@gmail.com
+arunaruabs17@gmail.com
 
 Hp@DESKTOP-02IFNOO MINGW64 ~/OneDrive/Desktop/repo (master)
-$ git config --global user.name "Bettumk"
+$ git config --global user.name "Aruna"
 
 Hp@DESKTOP-02IFNOO MINGW64 ~/OneDrive/Desktop/repo (master)
-$ git config --global user.email "bettumk@gamil.com"
+$ git config --global user.email "arunaruabs@gamil.com"
 
 Hp@DESKTOP-02IFNOO MINGW64 ~/OneDrive/Desktop/repo (master)
 $ git config user.name
-Bettumk
+Aruna
 
 Hp@DESKTOP-02IFNOO MINGW64 ~/OneDrive/Desktop/repo (master)
 $ git config user.email
-bettumk@gamil.com
+arunaruabs@gamil.com
 
 Hp@DESKTOP-02IFNOO MINGW64 ~/OneDrive/Desktop/repo (master)
 $ mkdir project1
